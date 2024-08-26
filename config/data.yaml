@@ -1,0 +1,6 @@
+path: C:\Users\croch\Documents\Thesis Work\Label_Studio_Training\lab-dataset\label-studio-ml-backend\lab-training
+train: ./data/images/train/
+val: ./data/images/val/
+
+nc: 12
+names: ['BA_BLBRYCRM_DANISH', 'BA_CHSBERRY_DANISH', 'BA_NANABRD_CAKE', 'BA_PND_CAKE', 'DOR_COOLRNCH_SNACK', 'DOR_NACHOCHS_SNACK', 'FRTLAY_FRITO_SNACK', 'MARS_MNMMLKBOX_CANDY', 'MOND_SOUPTWATMLN_CANDY', 'PEP_LIFEWTR_DRINK', 'PEP_PEP_DRINK', 'PEP_PRLFSWT_DRINK']
